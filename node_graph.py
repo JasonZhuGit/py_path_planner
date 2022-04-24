@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 import matplotlib.pyplot as plt
 import numpy as np
-from vertex import Vertex        #依赖模块安装：pip install vertex
+from vertex import Vertex        
 from heap import PriorityQueue
 
 class NodeGraph():
